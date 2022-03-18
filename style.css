@@ -1,0 +1,42 @@
+nav{
+	font-family: 'Sansita Swashed', cursive;
+}
+.d-flex{
+	font-family: none;
+}
+body{
+	font-family: 'Fredoka One', cursive;
+}
+p{
+	font-size: 25px;
+}
+
+.btn-outline-success {
+    color: #62e2f3;
+    border-color: #62e2f3;
+	border-radius: 50px;
+}
+.btn-outline-success:hover{
+	border-color: #62e2f3;
+	background-color: #62e2f3;
+}
+
+.card-img-top{
+	height: 240px;
+}
+footer{
+	background-color: gray;
+	font-family: none;
+}
+a{
+	color: black;
+	text-decoration: none;
+}
+a:hover{
+	color: yellow;
+}
+.first-line {
+	border-bottom: 1px solid black;
+	display: flex;
+	justify-content: space-between;
+}
